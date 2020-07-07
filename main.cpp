@@ -1,4 +1,4 @@
-//in Indonesian and in Indonesian
+//in Indonesian and in English
 //linked list tail
 #include <iostream>
 using namespace std;
